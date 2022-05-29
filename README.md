@@ -19,12 +19,13 @@
     
 ## Points to remember while testing the app
 
-1. If yarn module not present in code then you can download By Using `Yarn` OR `Yarn Install`.
-2. Then check `TMDB API` Key present or not. If present then go with 3rd step.
-3. Make sure the **URL** is starting with https
-4. While **scheduling a meet** make sure the start and end date follow a logical sequence or else it’ll show an error. 
-5. While testing the **Posture** bot, allow permissions for the camera and allow **notifications**, and **REFRESH** the page for changes to take effect. 
-6. Wait for the model to analyze, and check for **notifications** 
+1. You can download `zip file` of repository OR Clone this repo.
+2. If yarn module not present in code then you can download By Using `yarn` OR `yarn install`.
+3. Then check `TMDB API` Key present or not in `app/src/api/apiConfig.js`. If present then go with 3rd step.
+4. Open terminal and run the commant `yarn start` OR `npm start`. Now you can see the output in `http://localhost:3000/` on your default browser.
+5. While going to live demo link `https://netflix-clone-ac744.web.app/` of our website. Sometime if you refresh the page you see firebase documentation error. please `past` the above link again then you see website live demo. 
+6. While testing the **Posture** bot, allow permissions for the camera and allow **notifications**, and **REFRESH** the page for changes to take effect. 
+7. Wait for the model to analyze, and check for **notifications** 
 
 ## Instructions
 
