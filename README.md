@@ -6,8 +6,8 @@
 [![Generic badge](https://img.shields.io/badge/View%20Live-Demo-orange?style=for-the-badge&label=View%20Live%20WebApp)](https://netflix-clone-ac744.web.app/)
 
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sam0204/netflix_clone02-main?logo=github&style=for-the-badge)](https://github.com/Sam0204/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Apurva-tech/unite?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sam0204/netflix_clone02-main?logo=github&style=for-the-badge)](https://github.com/Sam0204) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/Sam0204/netflix_clone02-main?style=for-the-badge&logo=git)](https://github.com/Sam0204) 
 [![GitHub stars](https://img.shields.io/github/stars/Apurva-tech/unite?style=for-the-badge)](https://github.com/Apurva-tech/unite/stargazers) 
 [![My stars](https://img.shields.io/github/stars/Apurva-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)](https://github.com/Apurva-tech/unite/stargazers)
 
