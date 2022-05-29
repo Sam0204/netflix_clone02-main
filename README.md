@@ -20,26 +20,25 @@
 ## Points to remember while testing the app
 
 1. You can download `zip file` of repository OR Clone this repo.
-2. If yarn module not present in code then you can download By Using `yarn` OR `yarn install`.
-3. Then check `TMDB API` Key present or not in `app/src/api/apiConfig.js`. If present then go with 3rd step.
-4. Open terminal and run the commant `yarn start` OR `npm start`. Now you can see the output in `http://localhost:3000/` on your default browser.
-5. While going to live demo link `https://netflix-clone-ac744.web.app/` of our website. Sometime if you refresh the page you see firebase documentation error. please `past` the above link again then you see website live demo. 
-6. While testing the **Posture** bot, allow permissions for the camera and allow **notifications**, and **REFRESH** the page for changes to take effect. 
-7. Wait for the model to analyze, and check for **notifications** 
+2. First you have to go on root folder on that webapp. By using this command `cd app`.
+3. If yarn module not present in code then you can download By Using `yarn` OR `yarn install`.
+4. Then check `TMDB API` Key present or not in `app/src/api/apiConfig.js`. If present then go with 5th step.
+5. Open terminal and run the commant `yarn start` OR `npm start`. Now you can see the output in `http://localhost:3000/` on your default browser.
+6. While going to live demo link `https://netflix-clone-ac744.web.app/` of our website. Sometime if you refresh the page you see firebase documentation error. please `past` the above link again then you see website live demo. 
+7. While testing the `recommendations movies` scroll down of that movies you can see `similar` movies of that type. 
+8. The website is host on `Firebase`.
 
 ## Instructions
 
 
-1. `git clone https://github.com/Apurva-tech/unite.git` 
-2. `cd ./unite`
+1. `git clone https://github.com/Sam0204/netflix_clone02-main.git` 
+2. `cd ./app` (for going to the root folder)
 3. Install node dependencies 
-   - `npm install`
-4. Replace firebase API keys with your configurations
-5. Create a `.env` file 
-   - Add relevant credentials
-   - `cp .env.example .env` 
-5. `npm run dev`
-6. The app is now running at http://localhost:3030/landing 
+   - `yarn install` OR `npm install` (If not present yarn module).
+4. If `api key` is not present then go with 5th step.(If api key is present then drop the 5th step & go with 6th step) 
+5. Replace TMDB API keys with your configurations (`Sign in` on `TMDB` and generate api key).
+6. Then simply use `yarn start` OR `npm start` for seeing output on browser.
+7. The app is now running at http://localhost:3000/landing 
 
 
 ## Useful Links
